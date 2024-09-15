@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/AutoSerwis/static/css/main.f7f16d9a.css",
+    "main.js": "/AutoSerwis/static/js/main.7629f69e.js",
+    "static/js/453.3abddc5d.chunk.js": "/AutoSerwis/static/js/453.3abddc5d.chunk.js",
+    "static/media/slide2.jpg": "/AutoSerwis/static/media/slide2.42a3a87f75a7ff57ad75.jpg",
+    "static/media/slide3.png": "/AutoSerwis/static/media/slide3.260f07e3de83e484f223.png",
+    "static/media/car-bmw.png": "/AutoSerwis/static/media/car-bmw.ce0084ea1a775be5facc.png",
+    "static/media/car-audi.png": "/AutoSerwis/static/media/car-audi.a90e725076db89606926.png",
+    "static/media/slide5.jpg": "/AutoSerwis/static/media/slide5.f441299840efcfccd1bd.jpg",
+    "static/media/car-ford.png": "/AutoSerwis/static/media/car-ford.8ad46434039ce8859c27.png",
+    "static/media/slide1.jpeg": "/AutoSerwis/static/media/slide1.6af7bd79c0b622cbf20f.jpeg",
+    "static/media/car-vw.png": "/AutoSerwis/static/media/car-vw.d5a702356736f61e954e.png",
+    "static/media/car-tyt.png": "/AutoSerwis/static/media/car-tyt.10dae77c8f98f1a1e020.png",
+    "static/media/car-merc.png": "/AutoSerwis/static/media/car-merc.ebfab79cf12e771d8e6e.png",
+    "static/media/slide4.jpg": "/AutoSerwis/static/media/slide4.6a1f12d583ddd9c0e447.jpg",
+    "static/media/car-nissan.jpg": "/AutoSerwis/static/media/car-nissan.5ef1dd0010fce9c4e1bc.jpg",
+    "static/media/slick.svg": "/AutoSerwis/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AutoSerwis/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AutoSerwis/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AutoSerwis/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AutoSerwis/index.html",
+    "main.f7f16d9a.css.map": "/AutoSerwis/static/css/main.f7f16d9a.css.map",
+    "main.7629f69e.js.map": "/AutoSerwis/static/js/main.7629f69e.js.map",
+    "453.3abddc5d.chunk.js.map": "/AutoSerwis/static/js/453.3abddc5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f16d9a.css",
+    "static/js/main.7629f69e.js"
+  ]
+}
